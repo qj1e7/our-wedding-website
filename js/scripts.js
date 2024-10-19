@@ -261,7 +261,7 @@ $(document).ready(function () {
       );
     } else {
       $.post(
-        'https://script.google.com/macros/s/AKfycbyacZyMa_kdR7K6N78gYGaP_2URqD2B_mzA9CjlP7AvZUMpb7e6SctbTYkTSdphh2QX/exec',
+        'https://script.google.com/macros/s/AKfycbzCjckBINkCvucLb6NhsTYtcbLKVFsIz8Qd5Fyjt2oZtrtO028QtSG4HelKZLsdF_Zh/exec',
         data
       )
         .done(function (data) {
